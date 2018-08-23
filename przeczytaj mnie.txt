@@ -1,0 +1,22 @@
+W grze:
+
+A-atak
+1-nó¿
+2-pistolet//trzeba odblokowaæ
+3-lekki karabinek//trzeba odblokowaæ
+4-Karabin szturmowy//trzeba odblokowaæ
+5-Minigun//trzeba odblokowaæ
+ESC-wyjscie do menu (nie zapisuje gry)
+P-Pauza
+E-poprzedni utwór
+R-nastêpny utwór
+
+W menu:
+Spacja-wy³¹cza grê
+
+W menu opcji:
+Grafika 1-800x600 w oknie
+Grafika 2-1280x720 w oknie (lepsza jakosc)
+Grafika 3-800x600 fullscreen
+Grafika 4-1280x720 fullscreen (gorsza jakosc)
+
